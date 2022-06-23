@@ -145,7 +145,7 @@ Author URI: http://www.bootstrapthemes.co
         margin-top: 40px;
     }
     .main_history .single_history_content .head_title h2 {
-        border-left: 6px solid #22780f;
+        border-left: 6px solid rgba(34, 61, 97, 0.64);
     }
     .main_history .single_history_content .head_title {
         margin-bottom: 30px;
